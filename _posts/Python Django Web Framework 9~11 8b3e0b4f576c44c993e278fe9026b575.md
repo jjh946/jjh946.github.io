@@ -1,3 +1,11 @@
+---
+layout: post
+title: Python Django Web Framework 9~11
+image: 6.jpg
+date: 2018-02-06 10:23:20 +0200
+tags: [books, rest]
+categories: books
+---
 # Python Django Web Framework 9~11
 
 # 이번 강의에서는 무엇을 구현 할것인가?
